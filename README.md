@@ -3,8 +3,8 @@
 # LAB | Shark Attack Project
 <h2>Project Goals</h2>
 
-- GSAF5.xls: our dataset to get analyzed and prepare a presentation accordingly.
+**- GSAF5.xls:** our dataset to get analyzed and prepare a presentation accordingly.
 
-- Shark_Attacks_Final.ipynb: notebook file including codes for analyzing data using python_pandas
+**- Shark_Attacks_Final.ipynb:** notebook file including codes for analyzing data using python_pandas
 
-- Shark_Attacks_Analysis_Presentation.pdf: presentation file after data was analyzed
+**- Shark_Attacks_Analysis_Presentation.pdf:** presentation file after data was analyzed
